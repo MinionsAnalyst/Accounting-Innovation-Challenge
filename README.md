@@ -1,4 +1,5 @@
 # Accounting-Innovation-Challenge
+
 Introduction
 Used Twitter API to conduct real-time text analytics, including foreign language tweets, for risk assessment of clients.
 Objectives
