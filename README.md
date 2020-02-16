@@ -19,6 +19,7 @@ Limitations
 •	Accuracy on non-English text is not as high as that of English text
 
 Conclusion
+
 We have use WEWORK as our case study and the overall results achieved was positive at the time of this project (October 2019).
 
 What more can be done?
